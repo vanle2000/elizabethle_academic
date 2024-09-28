@@ -27,5 +27,9 @@ layout: compress
 
     {% include scripts.html %}
 
+    {% if jekyll.environment == 'production' and site.analytics.google.tracking_id %}
+    {% include analytics-providers/google-gtag.html %}
+    {% endif %}
+
   </body>
 </html>
