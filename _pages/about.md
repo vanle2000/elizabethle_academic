@@ -10,7 +10,9 @@ redirect_from:
 I completed my bachelor of Computational and Applied Mathematics at **The State University of New York at Buffalo** https://www.buffalo.edu (SUNY - Buffalo). I was intern at **Adaptive Biotechnologies** https://www.adaptivebiotech.com/tcr-antigen-map/ as Research Intern. 
 
 
-My research interests focus primarily on applications of machine learning to healthcare and finance. As an undergraduate, I spent a year in Professor Liu's lab developing convolutional neural networks for breast cancer detection and risk prediction. We specifically focused on predicting breast density, an important risk factor for breast cancer, and developed a breast density prediction model with accuracy on par with expert radiologists. In January of 2018, we implemented our model in the clinic at Massachusetts General Hospital, where it continues to aid radiologists.
+My research interests focus primarily on applications of machine learning to healthcare and finance. As an undergraduate, I spent a year in Professor Liu's lab developing convolutional neural networks for breast cancer detection and risk prediction. We specifically focused on predicting breast density, an important risk factor for breast cancer, and developed a breast density prediction model with accuracy on par with expert radiologists. 
+
+In January of 2018, we implemented our model in the clinic at Massachusetts General Hospital, where it continues to aid radiologists.
 
 During my master's thesis in Professor Barzilay's lab, I worked on building machine learning models for molecular property prediction. Accurate prediction of molecular properties, such as toxicity or solubility, can significantly accelerate drug discovery by rapidly identifying promising drug candidates. In collaboration with the Broad Institute of MIT and Harvard, we applied our model to antibiotics and discovered a new antibiotic, which we named halicin, that has shown activity against a number of bacteria.
 
